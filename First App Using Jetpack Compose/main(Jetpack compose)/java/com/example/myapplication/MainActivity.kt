@@ -24,6 +24,7 @@ class MainActivity : ComponentActivity() {
                 Surface(modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background
                 ) {
+                    //Soft Coded String
                     Greeting(text = stringResource(id = R.string.txt))
                 }
             }
@@ -40,6 +41,7 @@ Text(text = text)
 @Composable
 fun GreetingPreview() {
     MyApplicationTheme {
+        //Hard Coded string
         Greeting("Hi!I am Ramen Mondal.\nI am learning android development with Jetpack compose.")
     }
 }
