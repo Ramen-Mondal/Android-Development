@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="phn_num">+91 1234567890</string>
+    <string name="mail_id">abc.123@android.com</string>
+    <string name="share_text">"@"AndroidDev</string>
+    <string name="name">Ramen Mondal</string>
+    <string name="title">Android Developer Extraordinaire</string>
+</resources>
