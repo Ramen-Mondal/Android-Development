@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="txt">Hi! I am Ramen Mondal. I am learning android development with Jetpack compose</string>
+
+</resources>
