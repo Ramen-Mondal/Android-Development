@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Art Space</string>
+
+    <string name="iron_man">Iron Man</string>
+    <string name="hulk">Incredible Hulk</string>
+    <string name="thor">Thor</string>
+    <string name="captain">Captain America</string>
+    <string name="artist">Stan Lee</string>
+
+    <string name="iron_man_actor">Robert Downey Jr.</string>
+    <string name="hulk_actor">Edward Norton</string>
+    <string name="Thor_actor">Chris Hemsworth</string>
+    <string name="captain_actor">Chris Evans</string>
+</resources>
