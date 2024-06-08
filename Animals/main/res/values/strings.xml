@@ -1,0 +1,171 @@
+<resources>
+    <string name="app_name">Animals</string>
+    
+    <string name="lion">Lion</string>
+    <string name="tiger">Tiger</string>
+    <string name="cheetah">Cheetah</string>
+    <string name="wolf">Wolf</string>
+    <string name="hyena">Hyena</string>
+    <string name="fox">Fox</string>
+    <string name="bear">Bear</string>
+    <string name="elephant">Elephant</string>
+    <string name="panda">Panda</string>
+    <string name="horse">Horse</string>
+    <string name="zebra">Zebra</string>
+    <string name="buffalo">Buffalo</string>
+    <string name="giraffe">Giraffe</string>
+    <string name="gorilla">Gorilla</string>
+    <string name="chimpanzee">Chimpanzee</string>
+    <string name="monkey">Monkey</string>
+    <string name="pig">Pig</string>
+    <string name="deer">Deer</string>
+    <string name="sheep">Sheep</string>
+    <string name="raccoon">Raccoon</string>
+    <string name="koala">Koala</string>
+    <string name="sloth">Sloth</string>
+    <string name="rabbit">Rabbit</string>
+    <string name="meerkat">Meerkat</string>
+    <string name="rat">Rat</string>
+
+    <string name="eagle">Eagle</string>
+    <string name="peacock">Peacock</string>
+    <string name="woodpecker">Woodpecker</string>
+
+    <string name="crocodile">Crocodile</string>
+    <string name="tortoise">Tortoise</string>
+
+
+
+
+
+
+    <string name="about_lion">The king of the jungle is a large cat of the genus Panthera, native to Africa and India.
+ It has a muscular, broad-chested body; a short, rounded head; round ears; and a hairy tuft
+ at the end of its tail.</string>
+    <string name="about_tiger">The tiger is the largest living cat species and a member of the genus Panthera native to Asia .
+ It has a powerful, muscular body with a large head and paws, a long tail, and orange fur with black,
+ mostly vertical stripes.</string>
+    <string name="about_cheetah">The cheetah is a large cat and the fastest land animal. It has a tawny to creamy white or pale
+ buff fur that is marked with evenly spaced, solid black spots. The head is small and rounded, with a
+ short snout and black tear-like facial streaks.The cheetah\'s unique body structure: flexible spine,
+ semi-retractable claws, long legs and tail allow it to achieve the unbelievable top speed of 110
+ km/hr (70 mph). The cheetah\'s body is narrow and lightweight with long slender limbs. Specialized
+ muscles allow for a greater swing to the limbs increasing acceleration.
+</string>
+    <string name="about_wolf">Gray wolves have long legs that are well adapted to running, allowing them to move fast and travel
+ far in search of food, and large skulls and jaws that are well suited to catching and feeding on
+ large mammals. Wolves also have keen senses of smell, hearing and vision, which they use to detect
+ prey and one another.</string>
+    <string name="about_hyena">Hyenas or hyaenas are feliform carnivoran mammals belonging to the family Hyaenidae.It has a large
+ head with a long, thick, muscular neck and powerful jaws that give the hyena the strongest bite of
+ any mammal. Its front legs are longer than its back legs, giving the hyena a profile somewhat like
+ that of a wildebeest or bison. The spotted hyena\'s paws have four toes with non-retractable claws.</string>
+    <string name="about_fox">Foxes are small-to-medium-sized omnivorous mammals belonging to several genera of the family
+ Canidae. They have a flattened skull; upright, triangular ears; a pointed, slightly upturned snout;
+ and a long, bushy tail.</string>
+    <string name="about_bear">Adult bears present an imposing physical presence. All species have broad heads, extended jaws,
+ massive frames, heavy paws, powerful claws, and shaggy coats. The polar bear is white; most other
+ types are black, brown, or cinnamon in color. Bears vary in size according to their species.
+</string>
+    <string name="about_elephant">Elephants are the largest living land animals.Distinctive features of elephants include a long
+ proboscis called a trunk, tusks, large ear flaps, pillar-like legs, and tough but sensitive grey skin.
+ The trunk is prehensile, bringing food and water to the mouth and grasping objects.</string>
+    <string name="about_panda">The giant panda, also known as the panda bear or simply panda, is a bear species endemic to China.
+ It is characterised by its black-and-white coat and rotund body. The name "giant panda" is sometimes
+ used to distinguish it from the red panda, a neighboring musteloid. Adult individuals average 100 to
+ 115 kg (220 to 254 lb), and are typically 1.2 to 1.9 m (3 ft 11 in to 6 ft 3 in) long.The fur is
+ white, with black patches around the eyes, ears, legs and shoulders. A thumb is visible on the bear\'s
+ forepaw, which helps in holding bamboo in place for feeding.</string>
+    <string name="about_horse">Horses have oval-shaped hooves, long tails,short hair, long slender legs, muscular and deep torso
+ build, long thick necks, and large elongated heads. The mane is a region of coarse hairs, which
+ extends along the dorsal side of the neck in both domestic and wild species.</string>
+    <string name="about_zebra">Zebras are known for their black and white stripes. The stripes start as brown streaks and
+ darken to black as the zebra ages. The stripes are unique to each zebra.Zebras are members of
+ the horse family and are sturdy, spirited animals with excellent hearing and eyesight. They can run
+ up to 35 miles per hour and have a powerful kick that can seriously injure a predator.
+ Zebras walk, trot, canter, and gallop like horses, but not as quickly. </string>
+    <string name="about_buffalo">African buffalo and Asian water buffalo have horns that are triangular-shaped in cross-section.
+ In the African buffalo\'s skull, the vomer and palatine bones remain separate,
+ while in the water buffalo they are fused. Stout legs to support its ox-like body.</string>
+    <string name="about_giraffe">The giraffe is the tallest of all mammals. It reaches an overall height of 18 ft (5.5 m) or more.
+ The legs and neck are extremely long. The giraffe has a short body, a tufted tail, a short mane,
+ and short skin-covered horns.</string>
+    <string name="about_gorilla">The largest of the great apes, gorillas are stocky animals with broad chests and shoulders, large,
+ human-like hands, and small eyes set into hairless faces.Gorillas are herbivorous.</string>
+    <string name="about_chimpanzee">The chimpanzee, also simply known as the chimp, is a species of great ape native to the forests and
+ savannahs of tropical Africa. The characteristic chimpanzee shape includes arms that extend beyond
+ the knees, opposable thumbs, and a prominent mouth. The skin on the face, ears, palms, and soles of
+ the feet is bare, and the rest of the body is covered with brown to black hair.</string>
+    <string name="about_monkey">Most species are arboreal, using all four limbs to leap from tree to tree. They can sit upright
+ and stand erect. Most species run along branches rather than swinging arm over arm like the apes.
+ Monkeys are highly social omnivores, organized in clans as large as several hundred individuals headed
+ by an old male.</string>
+    <string name="about_pig">Wild boar have stocky, powerful bodies with a double layer of grey-brown fur – the top layer harsh,
+ bristly hair; the under layer much softer. Mature males have tusks that protrude from the mouth.
+ Piglets are a lighter ginger-brown, with stripes on their coat for camouflage.</string>
+    <string name="about_deer">A deer or true deer is a hoofed ruminant ungulate of the family Cervidae.They typically have a
+ compact body, short tail, and long, slender ears. They shed their antlers each year, and new ones
+ grow in.Deer feed on grass, twigs, bark, and shoots.
+</string>
+    <string name="about_sheep">Most wild sheep are hardy animals with coats of both hair and wool to keep them warm in cold
+ environments. Many are equipped with large, curling horns on the side of their head, which rams
+ use to challenge would-be rivals and display dominance.</string>
+    <string name="about_raccoon">Common Raccoons are stocky animals with short legs and small, rounded ears. Their fur is gray,
+ with dark black markings around their eyes, and black bands on their tail. Their belly and muzzle
+ are lighter colored while the feet are darker gray. Raccoons have coarse, medium-length fur and a
+ very bushy tail.</string>
+    <string name="about_koala">The koala, sometimes called the koala bear, is an arboreal herbivorous marsupial native to Australia.
+Virtually tailless, the body is stout and gray, with a pale yellow or cream-coloured chest and
+mottling on the rump. The broad face has a wide, rounded, leathery nose, small yellow eyes, and big
+fluffy ears. </string>
+    <string name="about_sloth">Sloths are a Neotropical group of xenarthran mammals.Sloths live in the tropical forests of Central
+ and South America. With their long arms and shaggy fur, they resemble monkeys, but they are actually
+ related to armadillos and anteaters.</string>
+    <string name="about_rabbit">)Rabbits are small mammals in the family Leporidae.Rabbits are small, furry mammals with long ears,
+ short fluffy tails, and strong, large hind legs. They have 2 pairs of sharp incisors (front teeth),
+ one pair on top and one pair on the bottom. They also have 2 peg teeth behind the top incisors.
+</string>
+    <string name="about_meerkat">The meerkat or suricate is a small mongoose found in southern Africa. It is characterised by a
+ broad head, large eyes, a pointed snout, long legs, a thin tapering tail, and a brindled coat pattern.
+ The head-and-body length is around 24–35 cm, and the weight is typically between 0.62 and 0.97 kg.
+</string>
+    <string name="about_rat">Rattus is a genus of muroid rodents, all typically called rats.Rats have coarse fur that is usually
+ dark grey or brown on the backside and light grey or brown on the underside. Rats can grow up to 10
+ inches (25 cm) in body length. The tail is usually the same length as the body and can be pink or
+ brown in color, but the tail always lacks fur.</string>
+
+    <string name="about_eagle">Eagles are large, powerfully-built birds of prey, with heavy heads and beaks.Eagles are known
+ for not giving up to the size or strength of their prey.Eagles have the sharpest visual acuity of any
+ animal, which is due to their unique eye structure and visual principles.Eagles are the only birds
+ that seem to get excited during storms, using the wind to soar to greater heights while other birds
+ seek shelter.</string>
+    <string name="about_peacock">Peafowl are known for their colorful and vibrant train of feathers and their elaborate mating
+ displays. A male peafowl, or peacock, will fan out its feathers and rattle them to attract a peahen.
+ Peafowls will also fan out their feathers to ward off predators. Mating season typically occurs
+ during the monsoon season.</string>
+    <string name="about_woodpecker">Woodpeckers are part of the bird family Picidae, which also includes the piculets, wrynecks and
+ sapsuckers.Woodpeckers have strong bills that they use for drilling and drumming on trees, and long,
+ sticky tongues for extracting food (insects and larvae). Woodpecker bills are typically longer,
+ sharper, and stronger than the bills of piculets and wrynecks, but their morphology is very similar.
+</string>
+
+    <string name="about_crocodile">Crocodiles or true crocodiles are large semiaquatic reptiles that live throughout the tropics in
+ Africa, Asia, the Americas and Australia.Crocodiles have powerful jaws with many conical teeth and
+ short legs with clawed webbed toes. They share a unique body form that allows the eyes, ears, and
+ nostrils to be above the water surface while most of the animal is hidden below. The tail is long
+ and massive, and the skin is thick and plated.
+</string>
+    <string name="about_tortoise">Tortoises are reptiles of the family Testudinidae of the order Testudines. Like other turtles,
+ tortoises have a shell to protect from predation and other threats.Tortoises have short, thick feet
+ like those of an elephant\'s while turtles have webbed feet for swimming. A tortoise\'s shell is
+ heavier and more rounded while a turtle\'s shell is lighter and flat. Tortoises are often loners.
+ Tortoises are experts at getting all the water and nutrients they need from what they eat.</string>
+
+
+
+
+
+
+
+
+</resources>
